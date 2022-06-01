@@ -1,0 +1,70 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>OST Example Chapter 1 Section 2</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36726</md:content-id>
+  <md:title>OST Example Chapter 1 Section 2</md:title>
+  <md:abstract/>
+  <md:uuid>3abe3fe7-4138-4650-a7a7-9ea808e789ec</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1170401680859">
+      <title>Chapter 1 – Section2: Population, Resources and the Environment</title>
+      <section id="id1170401576589">
+        <title>Learning Objectives</title>
+        <list id="id1170401531483" list-type="bulleted">
+          <item>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</item>
+          <item>Maecenas porttitor congue massa.</item>
+        </list>
+      </section>
+      <section id="id1170401779947">
+        <title>Relationships Among Population Growth</title>
+        <para id="id1170401817860">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede.</para>
+      </section>
+      <section id="id1170401799528">
+        <title>Types of Resources</title>
+        <para id="id1170401836798">When examining the effects of humans on the environment, it is important to distinguish between the two types of natural resources: nonrenewable and renewable</para>
+        <figure id="id1170401697330"><title>A typical Indian family</title><media id="id1170401697330_media" alt="picture of a typical indian family">
+            <image mime-type="image/png" src="../../media/indian family.png" id="id1170401697330__onlineimage" height="181" width="273"/>
+          </media>
+          
+        <caption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</caption></figure>
+        <figure id="id1170401889682"><title>A typical U.S.A. family</title><media id="id1170401889682_media" alt="picture of a typical family from U.S.A.">
+            <image mime-type="image/png" src="../../media/usa family.png" id="id1170401889682__onlineimage" height="177" width="274"/>
+          </media>
+          
+        <caption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est.</caption></figure>
+        <figure id="id1170401911802"><title>Natural Resources</title><media id="id1170401911802_media" alt="chart comparing types of natural resources" longdesc="chart comparing renewable with nonrenewable resources.  Renewable natural resources include: direct solar energy; energy of winds, tides, flowing water.  Nonrenewable natural resources include: metallic minerals; fossils.">
+            <image mime-type="image/png" src="../../media/natural resources.png" id="id1170401911802__onlineimage" height="190" width="383"/>
+          </media>
+          
+        <caption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</caption></figure>
+        <para id="id1170401802958"><term target-id="id1170401770119">Nonrenewable resources</term> Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</para>
+        <para id="id1170401737352">In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.</para>
+        <para id="id1170401928311"><term>Renewable resources</term> Donec ut est in lectus consequat consequat. Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique. Proin nec augue. Quisque aliquam tempor magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ac magna. Maecenas odio dolor, vulputate vel, auctor ac, accumsan id, felis. Pellentesque cursus sagittis felis.</para>
+        <para id="id1170401756077">Pellentesque porttitor, velit lacinia egestas auctor, diam eros tempus arcu, nec vulputate augue magna vel risus. Cras non magna vel ante adipiscing rhoncus. Vivamus a mi. Morbi neque. Aliquam erat volutpat. Integer ultrices lobortis eros. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin semper, ante vitae sollicitudin posuere, metus quam iaculis nibh, vitae scelerisque nunc massa eget pede. Sed velit urna, interdum vel, ultricies vel, faucibus at, quam. Donec elit est, consectetuer eget, consequat quis, tempus quis, wisi.</para>
+      </section>
+      <section id="id1170410583427">
+        <title>Review</title>
+        <para id="id1170401937959">
+          <emphasis>Question 1 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</emphasis>
+        </para>
+        <para id="id1170401725702">
+          <emphasis>Question 2 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</emphasis>
+        </para>
+      </section>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1170401770119">
+      <term>Nonrenewable Resources</term>
+      <meaning id="oo-id1170403040383">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+      </meaning>
+    </definition>
+    <definition id="id1170408403694">
+      <term>Renewable Resources</term>
+      <meaning id="oo-id1170401925129">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
+      </meaning>
+    </definition>
+  </glossary>
+</document>

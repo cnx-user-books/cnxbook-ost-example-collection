@@ -1,0 +1,28 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>OST Example Chapter 1 Intro</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36724</md:content-id>
+  <md:title>OST Example Chapter 1 Intro</md:title>
+  <md:abstract/>
+  <md:uuid>6931d8ea-4f9f-4f2d-8ca7-9ea1b6e4ba99</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165279303222">
+      <title>Chapter 1: Introducing Environmental Science and Sustainability</title>
+      <figure id="id1165279801657"><label>Picture</label><title>Las Vegas, Nevada</title>
+<media id="id1165279801657_media" alt="Picture of Las Vegas, Nevada">
+          <image mime-type="image/png" src="../../media/Picture 1.png" id="id1165279801657__onlineimage" height="271" width="351"/>
+        </media>
+        
+      <caption><emphasis effect="bold">Las Vegas, Nevada</emphasis> sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</caption></figure>
+      <para id="id2551560">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est.</para>
+      <para id="id1165295308816">Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</para>
+      <para id="id1165298051107">In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</para>
+      <para id="id1165273022420">Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien.</para>
+      <para id="id1165299267892"><note id="id1165300317257" type="Note"><title>Interactive Sustainability </title><para id="note1para1">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</para> 
+<para id="note1para2"><link url="http://www.youtube.com" window="new">YouTube Video</link></para>
+<para id="note1para3"><link url="http://www.ost.edu" window="new">Chapter 1 Suggested Readings</link></para></note></para>
+    </section>
+  </content>
+</document>

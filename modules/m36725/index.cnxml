@@ -1,0 +1,92 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>OST Example Chapter 1 Section 1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m36725</md:content-id>
+  <md:title>OST Example Chapter 1 Section 1</md:title>
+  <md:abstract/>
+  <md:uuid>cbc3275a-38f9-480f-adc5-a1b0ebd038ca</md:uuid>
+</metadata>
+<featured-links>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit below.
+       Changes to the links section in the source will not be saved. -->
+    <link-group type="example">
+      <link url="www.youtube.com" strength="3">OST You Tube Channel</link>
+      <link url="www.facebook.com" strength="3">OST Facebook Page</link>
+    </link-group>
+  <!-- WARNING! The 'featured-links' section is read only. Do not edit above.
+       Changes to the links section in the source will not be saved. -->
+</featured-links>
+<content>
+    <section id="id1166174771665">
+      <title>Chapter 1 – Section 1: Human Impacts on the Environment</title>
+      <section id="id1166187227711">
+        <title>Learning Objectives</title>
+        <list id="id1166176684755" list-type="bulleted">
+          <item>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.</item>
+          <item>Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</item>
+          <item>Nunc viverra imperdiet enim.</item>
+        </list>
+      </section>
+      <section id="id1166174668880">
+        <title>The Planet Earth</title>
+        <para id="id1166176640089">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</para>
+        <para id="id1166193528419">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.</para>
+        <para id="id1166176680825">Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla.</para>
+        <para id="id1166175415350">Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien. Donec ut est in lectus consequat consequat. Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique.</para>
+        <figure id="id1166180803512"><title>Planet Earth</title><media id="id1166180803512_media" alt="">
+            <image mime-type="image/png" src="../../media/earth.png" id="id1166180803512__onlineimage" height="223" width="239"/>
+          </media>
+          
+        <caption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</caption></figure>
+        <para id="id1166180516287">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. (Figure 1)</para>
+        <para id="id1166176549649">Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. (Figure 2)</para>
+        <para id="id1166185387432">Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla. Donec blandit feugiat ligula. Donec hendrerit, felis et imperdiet euismod, purus ipsum pretium metus, in lacinia nulla nisl eget sapien. Donec ut est in lectus consequat consequat.</para>
+        <para id="id1166178395524">Etiam eget dui. Aliquam erat volutpat. Sed at lorem in nunc porta tristique. Proin nec augue. Quisque aliquam tempor magna. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nunc ac magna.</para>
+        <figure id="id1166174664949"><title>A kingfisher arises from a pond after diving for a fish</title><media id="id1166174664949_media" alt="">
+            <image mime-type="image/png" src="../../media/kingfisher.png" id="id1166174664949__onlineimage" height="221" width="300"/>
+          </media>
+          
+        <caption>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.</caption></figure>
+      </section>
+      <section id="id1166201922534"><title>Increasing Human Numbers</title><para id="id1166207232543">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est.</para>
+        <para id="id1166176618863">Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</para>
+        <para id="id1166177464166">In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</para>
+        <figure id="human-population">
+             <title>Human Population</title>
+                <media id="HumanPopulationChart" alt="Chart showing increase in human population from 1 billion in 1800 to over 6 billion in 2000">
+    <image mime-type="image/png" src="../../media/human population.png"/></media>
+<caption>Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. </caption></figure>
+        <para id="id1166187235290">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna poverty. Nunc viverra imperdiet enim. Fusce est.</para>
+        <para id="id1166199959425">Vivamus a tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem.</para>
+        <para id="id1166187486335">In porttitor. Donec laoreet nonummy augue. Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.</para>
+      </section>
+      <section id="id1166177144991">
+        <title>The Gap Between Rich and Poor Countries</title>
+        <para id="id1166203936146">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna. Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.</para>
+        <para id="id1166191313649">Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci. Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.</para>
+        <para id="id1166189375370">Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy. Fusce aliquet pede non pede. Suspendisse dapibus lorem pellentesque magna. Integer nulla.</para>
+      </section>
+      <section id="id1166178947927">
+        <title>Review Questions</title>
+        <para id="id1166189288836">
+          <emphasis>What is poverty?</emphasis>
+        </para>
+        <para id="id1166181341275">
+          <emphasis>What is a highly developed country?</emphasis>
+        </para>
+      </section>
+    </section>
+  </content>
+  <glossary>
+    <definition id="id1166186066397">
+      <term>Poverty</term>
+      <meaning id="oo-id1166203710048">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.
+      </meaning>
+    </definition>
+    <definition id="id1166186509177">
+      <term>Highly developed countries</term>
+      <meaning id="oo-id1166186560953">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.
+      </meaning>
+    </definition>
+  </glossary>
+</document>
